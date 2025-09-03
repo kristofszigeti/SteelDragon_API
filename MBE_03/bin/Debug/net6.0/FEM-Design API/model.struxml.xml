@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" country="H" standard="EC" soil_as_solid="false" convertid="00000000-0000-0000-0000-000000000000" guid="a2e9ccc6-c46d-49ff-a28c-915216d11e6f" end_time="2025-03-28T22:08:17.580" start_time="1970-01-01T00:00:00.000" source_software="FEM-Design API SDK 24.0.0.0" struxml_version="01.00.000" xmlns="urn:strusoft">
+  <entities>
+    <foundations />
+    <bar xsi:type="Beam" last_change="2025-03-28T22:08:17.580" guid="c748abb4-daa8-401f-b127-ac2f2b1e3064" action="added" name="@B.41" maxforce="0" tension="0" shell_model="none" compressions_plasticity="false" tensions_plasticity="false" type="beam" stage="1">
+      <bar_part last_change="2025-03-28T22:08:17.580" guid="4fb59d0d-e373-4bce-a839-4e0121544c87" action="added" name="@B.41.1" stage="1" complex_section="8d1b2da5-ee42-4ec1-a7bc-91e7cc018fa0" complex_material="2c06b5e4-d35f-475f-aa33-d1b4e994d9fb" ecc_calc="true">
+        <curve type="line" start_angle="0" end_angle="0">
+          <point x="0" y="0" z="6" />
+          <point x="6" y="0" z="6" />
+          <normal x="-0" y="6" z="-0" />
+          <x_axis x="1" y="0" z="0" />
+        </curve>
+        <local-y x="-0" y="1" z="-0" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <end />
+      </bar_part>
+      <end />
+    </bar>
+    <bar xsi:type="Beam" last_change="2025-03-28T22:08:17.580" guid="9bd2af00-c112-4f4a-a706-5713b4940d33" action="added" name="@B.42" maxforce="0" tension="0" shell_model="none" compressions_plasticity="false" tensions_plasticity="false" type="beam" stage="1">
+      <bar_part last_change="2025-03-28T22:08:17.580" guid="467a8bec-74eb-488f-849e-9293d33d7f44" action="added" name="@B.42.1" stage="1" complex_section="3c78417e-9cb4-4660-8f2a-fdbd0e80126b" complex_material="2c06b5e4-d35f-475f-aa33-d1b4e994d9fb" ecc_calc="true">
+        <curve type="line" start_angle="0" end_angle="0">
+          <point x="0" y="0" z="6" />
+          <point x="0" y="6" z="6" />
+          <normal x="-6" y="-0" z="-0" />
+          <x_axis x="0" y="1" z="0" />
+        </curve>
+        <local-y x="-1" y="-0" z="-0" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <end />
+      </bar_part>
+      <end />
+    </bar>
+    <bar xsi:type="Beam" last_change="2025-03-28T22:08:17.580" guid="99dfa512-10e1-45c2-acfd-e8650f0189cb" action="added" name="@B.43" maxforce="0" tension="0" shell_model="none" compressions_plasticity="false" tensions_plasticity="false" type="beam" stage="1">
+      <bar_part last_change="2025-03-28T22:08:17.580" guid="c36a0142-d342-4a07-a63a-747543b4c6c7" action="added" name="@B.43.1" stage="1" complex_section="d226fdc2-9b34-4d14-bac6-6951d0e8020c" complex_material="2c06b5e4-d35f-475f-aa33-d1b4e994d9fb" ecc_calc="true">
+        <curve type="line" start_angle="0" end_angle="0">
+          <point x="0" y="6" z="6" />
+          <point x="6" y="6" z="6" />
+          <normal x="-0" y="6" z="-0" />
+          <x_axis x="1" y="0" z="0" />
+        </curve>
+        <local-y x="-0" y="1" z="-0" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <end />
+      </bar_part>
+      <end />
+    </bar>
+    <bar xsi:type="Beam" last_change="2025-03-28T22:08:17.580" guid="61e1eca9-9a9c-4189-a0e7-b50ca86e5af2" action="added" name="@B.44" maxforce="0" tension="0" shell_model="none" compressions_plasticity="false" tensions_plasticity="false" type="beam" stage="1">
+      <bar_part last_change="2025-03-28T22:08:17.580" guid="c6f7dd61-bfc9-4151-9e07-4305e25b4230" action="added" name="@B.44.1" stage="1" complex_section="63b1d23e-229d-43fa-9ae4-c3203a8ee08f" complex_material="2c06b5e4-d35f-475f-aa33-d1b4e994d9fb" ecc_calc="true">
+        <curve type="line" start_angle="0" end_angle="0">
+          <point x="6" y="0" z="6" />
+          <point x="6" y="6" z="6" />
+          <normal x="-6" y="-0" z="-0" />
+          <x_axis x="0" y="1" z="0" />
+        </curve>
+        <local-y x="-1" y="-0" z="-0" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <end />
+      </bar_part>
+      <end />
+    </bar>
+    <bar xsi:type="Beam" last_change="2025-03-28T22:08:17.580" guid="3e0a5942-583b-4021-ba26-ee78ad049efb" action="added" name="@B.45" maxforce="0" tension="0" shell_model="none" compressions_plasticity="false" tensions_plasticity="false" type="beam" stage="1">
+      <bar_part last_change="2025-03-28T22:08:17.580" guid="08d3c921-4b19-4c82-97a0-8f56dac3d105" action="added" name="@B.45.1" stage="1" complex_section="0a9f1b0d-e6e1-47c9-a69b-e151995a087c" complex_material="2c06b5e4-d35f-475f-aa33-d1b4e994d9fb" ecc_calc="true">
+        <curve type="line" start_angle="0" end_angle="0">
+          <point x="0" y="0" z="0" />
+          <point x="0" y="0" z="6" />
+          <normal x="1" y="0" z="0" />
+          <x_axis x="0" y="0" z="1" />
+        </curve>
+        <local-y x="1" y="0" z="0" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <end />
+      </bar_part>
+      <end />
+    </bar>
+    <bar xsi:type="Beam" last_change="2025-03-28T22:08:17.580" guid="6d57061c-f4c6-4e34-9b08-eb6462a69cf3" action="added" name="@B.46" maxforce="0" tension="0" shell_model="none" compressions_plasticity="false" tensions_plasticity="false" type="beam" stage="1">
+      <bar_part last_change="2025-03-28T22:08:17.580" guid="e3d6a060-fbb5-4f11-be88-917ffb3001f4" action="added" name="@B.46.1" stage="1" complex_section="03471597-5851-40b9-a994-3c8bcc950601" complex_material="2c06b5e4-d35f-475f-aa33-d1b4e994d9fb" ecc_calc="true">
+        <curve type="line" start_angle="0" end_angle="0">
+          <point x="0" y="6" z="0" />
+          <point x="0" y="6" z="6" />
+          <normal x="1" y="0" z="0" />
+          <x_axis x="0" y="0" z="1" />
+        </curve>
+        <local-y x="1" y="0" z="0" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <end />
+      </bar_part>
+      <end />
+    </bar>
+    <bar xsi:type="Beam" last_change="2025-03-28T22:08:17.580" guid="df6cb042-45fd-4512-a26a-b8044b7e7a12" action="added" name="@B.47" maxforce="0" tension="0" shell_model="none" compressions_plasticity="false" tensions_plasticity="false" type="beam" stage="1">
+      <bar_part last_change="2025-03-28T22:08:17.580" guid="862a6e2e-399c-4059-8c6c-d307c01d60e7" action="added" name="@B.47.1" stage="1" complex_section="dad7fcd2-9a5f-4034-964b-68709e98ac15" complex_material="2c06b5e4-d35f-475f-aa33-d1b4e994d9fb" ecc_calc="true">
+        <curve type="line" start_angle="0" end_angle="0">
+          <point x="6" y="0" z="0" />
+          <point x="6" y="0" z="6" />
+          <normal x="1" y="0" z="0" />
+          <x_axis x="0" y="0" z="1" />
+        </curve>
+        <local-y x="1" y="0" z="0" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <end />
+      </bar_part>
+      <end />
+    </bar>
+    <bar xsi:type="Beam" last_change="2025-03-28T22:08:17.580" guid="e479a34d-505f-4054-9456-737c48cc4360" action="added" name="@B.48" maxforce="0" tension="0" shell_model="none" compressions_plasticity="false" tensions_plasticity="false" type="beam" stage="1">
+      <bar_part last_change="2025-03-28T22:08:17.580" guid="26a86152-2b60-4187-af96-597761644c42" action="added" name="@B.48.1" stage="1" complex_section="89ac04d4-7abf-4af9-9c8f-1df7f36d9636" complex_material="2c06b5e4-d35f-475f-aa33-d1b4e994d9fb" ecc_calc="true">
+        <curve type="line" start_angle="0" end_angle="0">
+          <point x="6" y="6" z="0" />
+          <point x="6" y="6" z="6" />
+          <normal x="1" y="0" z="0" />
+          <x_axis x="0" y="0" z="1" />
+        </curve>
+        <local-y x="1" y="0" z="0" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <connectivity m_x_release="0" m_y_release="0" m_z_release="0" r_x_release="0" r_y_release="0" r_z_release="0" m_x="true" m_y="true" m_z="true" r_x="true" r_y="true" r_z="true" />
+        <end />
+      </bar_part>
+      <end />
+    </bar>
+    <loads>
+      <point_load last_change="2025-03-28T22:08:17.565" guid="faaa11f1-9bb2-49c1-a792-4099d5c37b51" action="added" load_case="ce4b4913-f29b-4441-ad88-5403cd83d72f" comment="Horizontal Force -20 kN" load_type="force">
+        <direction x="-1" y="0" z="0" />
+        <load x="6" y="0" z="3" val="20" />
+      </point_load>
+      <point_load last_change="2025-03-28T22:08:17.565" guid="d32ebd1a-4c85-499e-bdea-6b87ba3f1d47" action="added" load_case="ce4b4913-f29b-4441-ad88-5403cd83d72f" comment="Horizontal Force -20 kN" load_type="force">
+        <direction x="-1" y="0" z="0" />
+        <load x="6" y="6" z="3" val="20" />
+      </point_load>
+      <line_load last_change="2025-03-28T22:08:17.565" guid="ee8978b3-d3b0-47f7-ba58-c9cdaf1b25bd" action="added" load_case="2713150c-64fe-440c-b89a-3b220116f225" comment="Uniform Load" load_type="force" load_dir="constant" load_projection="false">
+        <edge type="line" start_angle="0" end_angle="0">
+          <point x="0" y="0" z="6" />
+          <point x="6" y="0" z="6" />
+          <normal x="-0" y="6" z="-0" />
+          <x_axis x="1" y="0" z="0" />
+        </edge>
+        <direction x="0" y="0" z="-1" />
+        <normal x="-0" y="0" z="1" />
+        <load x="0" y="0" z="6" val="10" />
+        <load x="6" y="0" z="6" val="10" />
+      </line_load>
+      <line_load last_change="2025-03-28T22:08:17.565" guid="472ba7f1-bad2-44e9-b585-43b0905ea07c" action="added" load_case="2713150c-64fe-440c-b89a-3b220116f225" comment="Uniform Load" load_type="force" load_dir="constant" load_projection="false">
+        <edge type="line" start_angle="0" end_angle="0">
+          <point x="0" y="6" z="6" />
+          <point x="6" y="6" z="6" />
+          <normal x="-0" y="6" z="-0" />
+          <x_axis x="1" y="0" z="0" />
+        </edge>
+        <direction x="0" y="0" z="-1" />
+        <normal x="-0" y="0" z="1" />
+        <load x="0" y="6" z="6" val="10" />
+        <load x="6" y="6" z="6" val="10" />
+      </line_load>
+      <line_load last_change="2025-03-28T22:08:17.565" guid="87ae79ae-e8cc-4905-98e1-1c41d23f7f4e" action="added" load_case="2713150c-64fe-440c-b89a-3b220116f225" comment="Uniform Load" load_type="force" load_dir="constant" load_projection="false">
+        <edge type="line" start_angle="0" end_angle="0">
+          <point x="0" y="0" z="6" />
+          <point x="0" y="6" z="6" />
+          <normal x="-6" y="-0" z="-0" />
+          <x_axis x="0" y="1" z="0" />
+        </edge>
+        <direction x="0" y="0" z="-1" />
+        <normal x="0" y="0" z="1" />
+        <load x="0" y="0" z="6" val="10" />
+        <load x="0" y="6" z="6" val="10" />
+      </line_load>
+      <line_load last_change="2025-03-28T22:08:17.565" guid="5307e297-2d96-4758-ae9b-517656e0047d" action="added" load_case="2713150c-64fe-440c-b89a-3b220116f225" comment="Uniform Load" load_type="force" load_dir="constant" load_projection="false">
+        <edge type="line" start_angle="0" end_angle="0">
+          <point x="6" y="0" z="6" />
+          <point x="6" y="6" z="6" />
+          <normal x="-6" y="-0" z="-0" />
+          <x_axis x="0" y="1" z="0" />
+        </edge>
+        <direction x="0" y="0" z="-1" />
+        <normal x="0" y="0" z="1" />
+        <load x="6" y="0" z="6" val="10" />
+        <load x="6" y="6" z="6" val="10" />
+      </line_load>
+      <load_case last_change="2025-03-28T22:08:17.565" guid="e83a509f-842e-4f53-aaec-c3773b12bb60" action="added" name="DL" type="dead_load" duration_class="permanent" />
+      <load_case last_change="2025-03-28T22:08:17.565" guid="2713150c-64fe-440c-b89a-3b220116f225" action="added" name="LL" type="static" duration_class="permanent" />
+      <load_case last_change="2025-03-28T22:08:17.565" guid="ce4b4913-f29b-4441-ad88-5403cd83d72f" action="added" name="WIND" type="static" duration_class="permanent" />
+      <load_combination last_change="2025-03-28T22:08:17.565" guid="6be91b5d-5d62-4ccc-a2d6-5e348a806b51" action="added" name="ULS" type="ultimate_ordinary">
+        <load_case gamma="1.3" guid="e83a509f-842e-4f53-aaec-c3773b12bb60" />
+        <load_case gamma="1.5" guid="2713150c-64fe-440c-b89a-3b220116f225" />
+        <load_case gamma="1.5" guid="ce4b4913-f29b-4441-ad88-5403cd83d72f" />
+      </load_combination>
+    </loads>
+    <supports>
+      <point_support last_change="2025-03-28T22:08:17.565" guid="6fd12798-aae1-420f-82ca-7a8f136a3350" action="added" name="@S.21" stage="1">
+        <group>
+          <local_x x="1" y="0" z="0" />
+          <local_y x="0" y="1" z="0" />
+          <rigidity xsi:type="RigidityDataType3" detach="">
+            <motions x_neg="10000000000" x_pos="10000000000" y_neg="10000000000" y_pos="10000000000" z_neg="10000000000" z_pos="10000000000" />
+            <rotations x_neg="10000000000" x_pos="10000000000" y_neg="10000000000" y_pos="10000000000" z_neg="10000000000" z_pos="10000000000" />
+          </rigidity>
+        </group>
+        <position x="0" y="0" z="0" />
+      </point_support>
+      <point_support last_change="2025-03-28T22:08:17.565" guid="f034d3d3-aba4-4385-89c3-03daa87dc367" action="added" name="@S.22" stage="1">
+        <group>
+          <local_x x="1" y="0" z="0" />
+          <local_y x="0" y="1" z="0" />
+          <rigidity xsi:type="RigidityDataType3" detach="">
+            <motions x_neg="10000000000" x_pos="10000000000" y_neg="10000000000" y_pos="10000000000" z_neg="10000000000" z_pos="10000000000" />
+            <rotations x_neg="10000000000" x_pos="10000000000" y_neg="10000000000" y_pos="10000000000" z_neg="10000000000" z_pos="10000000000" />
+          </rigidity>
+        </group>
+        <position x="0" y="6" z="0" />
+      </point_support>
+      <point_support last_change="2025-03-28T22:08:17.565" guid="268112b1-3bed-4afe-9bdc-5d56adb21e9d" action="added" name="@S.23" stage="1">
+        <group>
+          <local_x x="1" y="0" z="0" />
+          <local_y x="0" y="1" z="0" />
+          <rigidity xsi:type="RigidityDataType3" detach="">
+            <motions x_neg="10000000000" x_pos="10000000000" y_neg="10000000000" y_pos="10000000000" z_neg="10000000000" z_pos="10000000000" />
+            <rotations x_neg="10000000000" x_pos="10000000000" y_neg="10000000000" y_pos="10000000000" z_neg="10000000000" z_pos="10000000000" />
+          </rigidity>
+        </group>
+        <position x="6" y="0" z="0" />
+      </point_support>
+      <point_support last_change="2025-03-28T22:08:17.565" guid="080a62a8-6d87-4f98-8ec9-e2eeec54b6a0" action="added" name="@S.24" stage="1">
+        <group>
+          <local_x x="1" y="0" z="0" />
+          <local_y x="0" y="1" z="0" />
+          <rigidity xsi:type="RigidityDataType3" detach="">
+            <motions x_neg="10000000000" x_pos="10000000000" y_neg="10000000000" y_pos="10000000000" z_neg="10000000000" z_pos="10000000000" />
+            <rotations x_neg="10000000000" x_pos="10000000000" y_neg="10000000000" y_pos="10000000000" z_neg="10000000000" z_pos="10000000000" />
+          </rigidity>
+        </group>
+        <position x="6" y="6" z="0" />
+      </point_support>
+    </supports>
+    <advanced-fem />
+  </entities>
+  <sections>
+    <section last_change="1970-01-01T00:00:00.000" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c" action="added" name="Steel section, HE-A, 300" type="custom" fd-mat="0" fd_name_code="Steel section" fd_name_type="HE-A" fd_name_size="300">
+      <region_group>
+        <region>
+          <contour>
+            <edge type="line" start_angle="0" end_angle="0">
+              <point x="-0.15" y="-0.145" z="0" />
+              <point x="0.15" y="-0.145" z="0" />
+              <normal x="0" y="1" z="0" />
+            </edge>
+            <edge type="line" start_angle="0" end_angle="0">
+              <point x="0.15" y="-0.145" z="0" />
+              <point x="0.15" y="-0.131" z="0" />
+              <normal x="0" y="0" z="0" />
+            </edge>
+            <edge type="line" start_angle="0" end_angle="0">
+              <point x="0.15" y="-0.131" z="0" />
+              <point x="0.03125" y="-0.131" z="0" />
+              <normal x="0" y="-1" z="0" />
+            </edge>
+            <edge type="arc" radius="0.027" start_angle="0" end_angle="1.5707963267949">
+              <point x="0.03125" y="-0.104" z="0" />
+              <normal x="0" y="0" z="-1" />
+              <x_axis x="0" y="-1" z="0" />
+            </edge>
+            <edge type="line" start_angle="0" end_angle="0">
+              <point x="0.00425" y="-0.104" z="0" />
+              <point x="0.00425" y="0.104" z="0" />
+              <normal x="-1" y="0" z="0" />
+            </edge>
+            <edge type="arc" radius="0.027" start_angle="0" end_angle="1.5707963267949">
+              <point x="0.03125" y="0.104" z="0" />
+              <normal x="0" y="0" z="-1" />
+              <x_axis x="-1" y="0" z="0" />
+            </edge>
+            <edge type="line" start_angle="0" end_angle="0">
+              <point x="0.03125" y="0.131" z="0" />
+              <point x="0.15" y="0.131" z="0" />
+              <normal x="0" y="1" z="0" />
+            </edge>
+            <edge type="line" start_angle="0" end_angle="0">
+              <point x="0.15" y="0.131" z="0" />
+              <point x="0.15" y="0.145" z="0" />
+              <normal x="0" y="0" z="0" />
+            </edge>
+            <edge type="line" start_angle="0" end_angle="0">
+              <point x="0.15" y="0.145" z="0" />
+              <point x="-0.15" y="0.145" z="0" />
+              <normal x="0" y="-1" z="0" />
+            </edge>
+            <edge type="line" start_angle="0" end_angle="0">
+              <point x="-0.15" y="0.145" z="0" />
+              <point x="-0.15" y="0.131" z="0" />
+              <normal x="0" y="0" z="0" />
+            </edge>
+            <edge type="line" start_angle="0" end_angle="0">
+              <point x="-0.15" y="0.131" z="0" />
+              <point x="-0.03125" y="0.131" z="0" />
+              <normal x="0" y="1" z="0" />
+            </edge>
+            <edge type="arc" radius="0.027" start_angle="0" end_angle="1.57079632679489">
+              <point x="-0.03125" y="0.104" z="0" />
+              <normal x="0" y="0" z="-1" />
+              <x_axis x="0" y="1" z="0" />
+            </edge>
+            <edge type="line" start_angle="0" end_angle="0">
+              <point x="-0.00425" y="0.104" z="0" />
+              <point x="-0.00425" y="-0.104" z="0" />
+              <normal x="1" y="0" z="0" />
+            </edge>
+            <edge type="arc" radius="0.027" start_angle="0" end_angle="1.5707963267949">
+              <point x="-0.03125" y="-0.104" z="0" />
+              <normal x="0" y="0" z="-1" />
+              <x_axis x="1" y="0" z="0" />
+            </edge>
+            <edge type="line" start_angle="0" end_angle="0">
+              <point x="-0.03125" y="-0.131" z="0" />
+              <point x="-0.15" y="-0.131" z="0" />
+              <normal x="0" y="-1" z="0" />
+            </edge>
+            <edge type="line" start_angle="0" end_angle="0">
+              <point x="-0.15" y="-0.131" z="0" />
+              <point x="-0.15" y="-0.145" z="0" />
+              <normal x="0" y="0" z="0" />
+            </edge>
+          </contour>
+        </region>
+      </region_group>
+      <end />
+    </section>
+    <complex_section last_change="2025-03-28T22:08:17.580" guid="8d1b2da5-ee42-4ec1-a7bc-91e7cc018fa0" action="added">
+      <section pos="0" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+      <section pos="1" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+    </complex_section>
+    <complex_section last_change="2025-03-28T22:08:17.580" guid="3c78417e-9cb4-4660-8f2a-fdbd0e80126b" action="added">
+      <section pos="0" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+      <section pos="1" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+    </complex_section>
+    <complex_section last_change="2025-03-28T22:08:17.580" guid="d226fdc2-9b34-4d14-bac6-6951d0e8020c" action="added">
+      <section pos="0" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+      <section pos="1" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+    </complex_section>
+    <complex_section last_change="2025-03-28T22:08:17.580" guid="63b1d23e-229d-43fa-9ae4-c3203a8ee08f" action="added">
+      <section pos="0" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+      <section pos="1" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+    </complex_section>
+    <complex_section last_change="2025-03-28T22:08:17.580" guid="0a9f1b0d-e6e1-47c9-a69b-e151995a087c" action="added">
+      <section pos="0" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+      <section pos="1" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+    </complex_section>
+    <complex_section last_change="2025-03-28T22:08:17.580" guid="03471597-5851-40b9-a994-3c8bcc950601" action="added">
+      <section pos="0" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+      <section pos="1" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+    </complex_section>
+    <complex_section last_change="2025-03-28T22:08:17.580" guid="dad7fcd2-9a5f-4034-964b-68709e98ac15" action="added">
+      <section pos="0" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+      <section pos="1" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+    </complex_section>
+    <complex_section last_change="2025-03-28T22:08:17.580" guid="89ac04d4-7abf-4af9-9c8f-1df7f36d9636" action="added">
+      <section pos="0" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+      <section pos="1" guid="3dc3126b-8efb-4aa9-811f-0fdc94c81d9c">
+        <ecc x="-0" y="-0" z="-0" />
+        <end />
+      </section>
+    </complex_section>
+  </sections>
+  <materials>
+    <material last_change="2025-03-28T22:08:17.565" guid="2c06b5e4-d35f-475f-aa33-d1b4e994d9fb" action="modified" standard="EC" country="S" name="S 355">
+      <steel mass="7.85" E_0="0" E_1="0" E_2="0" nu_0="0" nu_1="0" nu_2="0" alfa_0="0" alfa_1="0" alfa_2="0" G_0="0" G_1="0" G_2="0" Fyk16="355" Fyk40="355" Fyk63="335" Fyk80="335" Fyk100="335" Fyk150="335" Fyk200="335" Fyk250="335" Fyk400="335" Fuk3="510" Fuk40="510" Fuk100="470" Fuk150="470" Fuk250="470" Fuk400="470" gammaM0_0="1" gammaM0_1="1" gammaM1_0="1" gammaM1_1="1" gammaM2_0="1.25" gammaM2_1="1.25" gammaM5_0="1" gammaM5_1="1" gammaMfi="1" Ek="210000" Ed_0="0" Ed_1="0" nu="0.3" G="80769" alfa="0.000012">
+        <plastic_analysis_data elasto_plastic_behaviour_U="false" elasto_plastic_strain_limit_U="true" elasto_plastic_strain_limit_option_U="2.5" elasto_plastic_behaviour_Sq="false" elasto_plastic_strain_limit_Sq="true" elasto_plastic_strain_limit_option_Sq="2.5" elasto_plastic_behaviour_Sf="false" elasto_plastic_strain_limit_Sf="true" elasto_plastic_strain_limit_option_Sf="2.5" elasto_plastic_behaviour_Sc="false" elasto_plastic_strain_limit_Sc="true" elasto_plastic_strain_limit_option_Sc="2.5" />
+      </steel>
+    </material>
+  </materials>
+  <reinforcing_materials />
+  <composites />
+  <line_connection_types />
+  <ptc_strand_types />
+  <end />
+</database>

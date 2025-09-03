@@ -1,0 +1,95 @@
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\bin\Debug\net6.0\Exercise_2.exe
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\bin\Debug\net6.0\Exercise_2.deps.json
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\bin\Debug\net6.0\Exercise_2.runtimeconfig.json
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\bin\Debug\net6.0\Exercise_2.dll
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\bin\Debug\net6.0\Exercise_2.pdb
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\bin\Debug\net6.0\FemDesign.Core.dll
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\bin\Debug\net6.0\FuzzySharp.dll
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.AssemblyReference.cache
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\obj\Debug\net6.0\Exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\obj\Debug\net6.0\Exercise_2.AssemblyInfoInputs.cache
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\obj\Debug\net6.0\Exercise_2.AssemblyInfo.cs
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.CoreCompileInputs.cache
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.CopyComplete
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\obj\Debug\net6.0\Exercise_2.dll
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\obj\Debug\net6.0\refint\Exercise_2.dll
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\obj\Debug\net6.0\Exercise_2.pdb
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\obj\Debug\net6.0\Exercise_2.genruntimeconfig.cache
+C:\FEM minta\MBE_Class - FEM-Design\Exercise_2\obj\Debug\net6.0\ref\Exercise_2.dll
+g:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\bin\Debug\net6.0\Exercise_2.exe
+G:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\bin\Debug\net6.0\Exercise_2.deps.json
+G:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\bin\Debug\net6.0\Exercise_2.runtimeconfig.json
+g:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\bin\Debug\net6.0\Exercise_2.dll
+g:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\bin\Debug\net6.0\Exercise_2.pdb
+g:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\bin\Debug\net6.0\FemDesign.Core.dll
+g:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\bin\Debug\net6.0\FuzzySharp.dll
+g:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\bin\Debug\net6.0\Newtonsoft.Json.dll
+g:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.AssemblyReference.cache
+g:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\obj\Debug\net6.0\Exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+g:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\obj\Debug\net6.0\Exercise_2.AssemblyInfoInputs.cache
+g:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\obj\Debug\net6.0\Exercise_2.AssemblyInfo.cs
+g:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.CoreCompileInputs.cache
+G:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.CopyComplete
+g:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\obj\Debug\net6.0\Exercise_2.dll
+g:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\obj\Debug\net6.0\refint\Exercise_2.dll
+g:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\obj\Debug\net6.0\Exercise_2.pdb
+G:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\obj\Debug\net6.0\Exercise_2.genruntimeconfig.cache
+G:\Saját meghajtó\BME\Steel Dragon\Homework - FEM-Design API\Tomi\Exercise_2\obj\Debug\net6.0\ref\Exercise_2.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\bin\Debug\net6.0\Exercise_2.exe
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\bin\Debug\net6.0\Exercise_2.deps.json
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\bin\Debug\net6.0\Exercise_2.runtimeconfig.json
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\bin\Debug\net6.0\Exercise_2.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\bin\Debug\net6.0\Exercise_2.pdb
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\bin\Debug\net6.0\FemDesign.Core.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\bin\Debug\net6.0\FuzzySharp.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\bin\Debug\net6.0\Newtonsoft.Json.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.AssemblyReference.cache
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\obj\Debug\net6.0\Exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\obj\Debug\net6.0\Exercise_2.AssemblyInfoInputs.cache
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\obj\Debug\net6.0\Exercise_2.AssemblyInfo.cs
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.CoreCompileInputs.cache
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.CopyComplete
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\obj\Debug\net6.0\Exercise_2.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\obj\Debug\net6.0\refint\Exercise_2.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\obj\Debug\net6.0\Exercise_2.pdb
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\obj\Debug\net6.0\Exercise_2.genruntimeconfig.cache
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\Exercise_2\obj\Debug\net6.0\ref\Exercise_2.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\bin\Debug\net6.0\Exercise_2.exe
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\bin\Debug\net6.0\Exercise_2.deps.json
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\bin\Debug\net6.0\Exercise_2.runtimeconfig.json
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\bin\Debug\net6.0\Exercise_2.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\bin\Debug\net6.0\Exercise_2.pdb
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\bin\Debug\net6.0\FemDesign.Core.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\bin\Debug\net6.0\FuzzySharp.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\bin\Debug\net6.0\Newtonsoft.Json.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.AssemblyReference.cache
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.AssemblyInfoInputs.cache
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.AssemblyInfo.cs
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.CoreCompileInputs.cache
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.CopyComplete
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\obj\Debug\net6.0\refint\Exercise_2.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.pdb
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.genruntimeconfig.cache
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\SteelDragon_API\Exercise_2\obj\Debug\net6.0\ref\Exercise_2.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\bin\Debug\net6.0\Exercise_2.exe
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\bin\Debug\net6.0\Exercise_2.deps.json
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\bin\Debug\net6.0\Exercise_2.runtimeconfig.json
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\bin\Debug\net6.0\Exercise_2.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\bin\Debug\net6.0\Exercise_2.pdb
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\bin\Debug\net6.0\FemDesign.Core.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\bin\Debug\net6.0\FuzzySharp.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\bin\Debug\net6.0\Newtonsoft.Json.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.AssemblyReference.cache
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.AssemblyInfoInputs.cache
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.AssemblyInfo.cs
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.CoreCompileInputs.cache
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.csproj.CopyComplete
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\obj\Debug\net6.0\refint\Exercise_2.dll
+d:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.pdb
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\obj\Debug\net6.0\Exercise_2.genruntimeconfig.cache
+D:\Kristof\STR\BME\CIT MSc\Semester 02\Automation\Homework - FEM-Design API\HW\Submitted\SteelDragon_API\Exercise_2\obj\Debug\net6.0\ref\Exercise_2.dll

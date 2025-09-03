@@ -1,0 +1,12 @@
+Steel bar, Utilization, Load comb.: ULS
+Member	Section	Status	Maximum	RCS	FB	TFB	LTB,t	LTB,b	SB	IA
+[-]	[-]	[-]	[%]	[%]	[%]	[%]	[%]	[%]	[%]	[%]
+B.1.1	IPE 450	Applied	78	61	32	22	47	39	-	78
+B.2.1	IPE 200	Applied	97	49	75	20	0	66	-	97
+B.3.1	IPE 360	Applied	82	29	82	46	0	0	-	82
+B.4.1	IPE 360	Applied	82	29	82	46	0	0	-	82
+B.5.1	VKR 80x80x4	Applied	96	96	-	-	2	0	-	-
+B.6.1	VKR 140x140x5	Applied	69	43	69	42	0	0	-	69
+B.7.1	VKR 140x140x5	Applied	69	43	69	42	0	0	-	69
+B.8.1	VKR 80x80x4	Applied	96	96	-	-	2	0	-	-
+
